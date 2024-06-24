@@ -1,4 +1,5 @@
-import GameSavingLoader from "./gameSaving";
+import GameSavingLoader from "./gameSavingLoader";
+
 
 GameSavingLoader.load()
 .then((data) => {
